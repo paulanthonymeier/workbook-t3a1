@@ -1,6 +1,6 @@
 # Paul Meier - Assessment Workbook (T3A1)
 
-Workbook for Coder Academy Term 3 | ![View Online](https://github.com/paulanthonymeier/workbook-t3a1)
+Workbook for Coder Academy Term 3 | [View Online!](https://github.com/paulanthonymeier/workbook-t3a1)
 
 
 ## Author
